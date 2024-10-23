@@ -5,3 +5,9 @@
     border-radius: 5px;
     padding: 5px;
 }
+.image-container{
+    border: 1px solid black;
+    padding: 20px;
+    border-radius: 10px;
+    height: 205px;
+}
