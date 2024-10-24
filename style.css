@@ -6,8 +6,9 @@
     padding: 5px;
 }
 .image-container{
-    border: 1px solid black;
+    /* border: 1px solid black; */
     padding: 20px;
-    border-radius: 10px;
+    /* border-radius: 10px; */
     height: 205px;
+    border-bottom: 1px solid black;
 }
